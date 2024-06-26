@@ -1,0 +1,5 @@
+{
+  "topic":"espfeuchtigkeit",
+  "schwellenwert":30,
+  "sleep_time":10
+}
